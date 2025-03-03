@@ -10,3 +10,5 @@ transformers
 torch
 scikit-learn
 nltk  
+accelerate
+evaluate
